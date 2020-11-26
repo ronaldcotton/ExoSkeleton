@@ -1,19 +1,20 @@
 {
-  "name": "skeleton",
-  "version": "2.0.4",
-  "homepage": "http://getskeleton.com/",
+  "name": "exoskeleton",
+  "version": "alpha",
+  "homepage": "https://github.com/ronaldcotton/ExoSkeleton",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dhg/Skeleton"
+    "url": "https://github.com/ronaldcotton/ExoSkeleton"
   },
   "authors": [
-    "Dave Gamache <hello@davegamache.com> (http://davegamache.com/)"
+    "Ronald Cotton <roncotton@gmail.com> (http://roncotton.com)",
+    "(original skeleton template) Dave Gamache <hello@davegamache.com> (http://davegamache.com/)"
   ],
-  "description": "Skeleton is a dead-simple, responsive boilerplate to kickstart any responsive project.",
-  "main": "css/skeleton.css",
+  "description": "Exokeleton is a responsive boilerplate to kickstart any web project.",
+  "main": "css/exoskeleton.css",
   "keywords": [
     "css",
-    "skeleton",
+    "exoskeleton",
     "responsive",
     "boilerplate"
   ],
