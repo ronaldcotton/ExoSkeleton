@@ -13,7 +13,7 @@ To download the original unforked version of Skeleton:
 The download includes Skeleton's CSS, Normalize CSS as a reset, a sample favicon, and an index.html as a starting point.
 
 ```
-Skeleton/
+ExoSkeleton/
 ├── index.html
 ├── css/
 │   ├── normalize.css
