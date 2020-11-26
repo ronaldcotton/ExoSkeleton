@@ -1,5 +1,5 @@
 # ExoSkeleton
-ExoSkeleton is an adapted template from the original responsive boilerplate [Skeleton](http://getskeleton.com) to kickstart any web project.  Because skeleton hasn't been updated in 6 years, this is my attempt at updating and upgrading features.
+ExoSkeleton is an adapted template from the original responsive boilerplate [Skeleton](http://getskeleton.com) to kickstart any web project.  Skeleton hasn't been updated in 6 years, so this is an attempt at refreshing the original Skeleton theme.
 
 Check out <http://getskeleton.com> for documentation and details of the original project.
 
@@ -32,13 +32,7 @@ Exoskeleton aims to update and add features to skeleton.
 
 ## Browser support
 
-- Chrome latest
-- Firefox latest
-- Opera latest
-- Safari latest
-- IE latest
-
-The above list is non-exhaustive. Skeleton works perfectly with almost all older versions of the browsers above, though IE certainly has large degradation prior to IE9.
+Should work with most modern browsers after IE9.
 
 
 ## License
@@ -48,4 +42,4 @@ All parts of ExoSkeleton and Skeleton are free to use and abuse under the open-s
 
 ## Acknowledgement
 
-Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
+The original Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
