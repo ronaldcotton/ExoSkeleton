@@ -1,33 +1,37 @@
-/*
-* Skeleton V2.0.4
-* Copyright 2014, Dave Gamache
-* www.getskeleton.com
-* Free to use under the MIT license.
-* http://www.opensource.org/licenses/mit-license.php
-* 12/29/2014
-*/
+/* Exoskeleton alpha
+ * 
+ * Based on:
+ * Skeleton V2.0.4
+ * Copyright 2014, Dave Gamache
+ * www.getskeleton.com
+ * Free to use under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ * 12/29/2014
+ */
 
 
 /* Table of contents
-––––––––––––––––––––––––––––––––––––––––––––––––––
-- Grid
-- Base Styles
-- Typography
-- Links
-- Buttons
-- Forms
-- Lists
-- Code
-- Tables
-- Spacing
-- Utilities
-- Clearing
-- Media Queries
-*/
+ * –––––––––––––––––
+ * - Grid
+ * - Base Styles
+ * - Typography
+ * - Links
+ * - Buttons
+ * - Forms
+ * - Lists
+ * - Code
+ * - Tables
+ * - Spacing
+ * - Utilities
+ * - Clearing
+ * - Media Queries
+ */
 
 
 /* Grid
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ * ––––
+ */
+
 .container {
   position: relative;
   width: 100%;
@@ -114,10 +118,12 @@
 
 
 /* Base Styles
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* NOTE
-html is set to 62.5% so that all the REM measurements throughout Skeleton
-are based on 10px sizing. So basically 1.5rem = 15px :) */
+ *––––––––––––
+ * NOTE:
+ * html is set to 62.5% so that all the REM measurements throughout Skeleton
+ * are based on 10px sizing. So basically 1.5rem = 15px :)
+ */
+
 html {
   font-size: 62.5%; }
 body {
@@ -129,7 +135,8 @@ body {
 
 
 /* Typography
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ * ––––––––––
+ */
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 2rem;
@@ -156,7 +163,9 @@ p {
 
 
 /* Links
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ * –––––
+ */
+
 a {
   color: #1EAEDB; }
 a:hover {
@@ -164,7 +173,9 @@ a:hover {
 
 
 /* Buttons
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ * –––––––
+ */
+
 .button,
 button,
 input[type="submit"],
@@ -224,7 +235,9 @@ input[type="button"].button-primary:focus {
 
 
 /* Forms
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ * –––––
+ */
+
 input[type="email"],
 input[type="number"],
 input[type="search"],
@@ -286,7 +299,9 @@ label > .label-body {
 
 
 /* Lists
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ * –––––
+ */
+
 ul {
   list-style: circle inside; }
 ol {
@@ -305,7 +320,8 @@ li {
 
 
 /* Code
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ * ––––
+ */
 code {
   padding: .2rem .5rem;
   margin: 0 .2rem;
@@ -321,7 +337,9 @@ pre > code {
 
 
 /* Tables
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+ * ––––––
+ */
+
 th,
 td {
   padding: 12px 15px;
@@ -336,7 +354,9 @@ td:last-child {
 
 
 /* Spacing
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+   –––––––
+ */
+
 button,
 .button {
   margin-bottom: 1rem; }
@@ -358,7 +378,9 @@ form {
 
 
 /* Utilities
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+   –––––––––
+ */
+
 .u-full-width {
   width: 100%;
   box-sizing: border-box; }
@@ -372,7 +394,9 @@ form {
 
 
 /* Misc
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+   ––––
+ */
+
 hr {
   margin-top: 3rem;
   margin-bottom: 3.5rem;
@@ -381,7 +405,8 @@ hr {
 
 
 /* Clearing
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
+   ––––––––
+ */
 
 /* Self Clearing Goodness */
 .container:after,
@@ -393,12 +418,11 @@ hr {
 
 
 /* Media Queries
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-/*
-Note: The best way to structure the use of media queries is to create the queries
-near the relevant code. For example, if you wanted to change the styles for buttons
-on small devices, paste the mobile query code up in the buttons section and style it
-there.
+   –––––––––––––
+   Note: The best way to structure the use of media queries is to create the queries
+         near the relevant code. For example, if you wanted to change the styles for buttons
+         on small devices, paste the mobile query code up in the buttons section and style it
+         there.
 */
 
 
