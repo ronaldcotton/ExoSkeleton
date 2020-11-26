@@ -1,5 +1,5 @@
 # ExoSkeleton
-ExoSkeleton is an adapted template from the original responsive boilerplate [Skeleton](http://getskeleton.com) to kickstart any web project.  Skeleton hasn't been updated in 6 years, so this is an attempt at refreshing the original Skeleton theme.
+ExoSkeleton is an adapted template from the original responsive boilerplate [Skeleton](http://getskeleton.com) to kickstart any web project.  Skeleton hasn't been updated in 6 years - this is a refresh the original Skeleton theme.
 
 Check out <http://getskeleton.com> for documentation and details of the original project.
 
