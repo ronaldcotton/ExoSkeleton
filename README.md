@@ -42,6 +42,6 @@ All parts of ExoSkeleton and Skeleton are free to use and abuse under the open-s
 
 ## Acknowledgement
 
-The original Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
-.gitignore template for web projects was created by @salcode
-updated [normalize.css](https://github.com/necolas/normalize.css/) by @necolas
+- The original Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
+- .gitignore template for web projects was created by [@salcode](https://github.com/salcode)
+- updated [normalize.css](https://github.com/necolas/normalize.css/) by [@necolas](https://github.com/necolas)
