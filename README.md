@@ -7,10 +7,12 @@ ExoSkeleton is an adapted template from the original responsive boilerplate Skel
 Check out <http://getskeleton.com> for documentation and details of the original project.
 
 
-## Examples
+## ExoSkeleron Examples
 [![ExoSkeleton Documenation Page](https://github.com/ronaldcotton/ExoSkeleton/blob/gh-pages/images/exoskeleton-documentation-page.png?raw=true)](https://ronaldcotton.github.io/ExoSkeleton/)
 [![ExoSkeleton Demo Page](https://github.com/ronaldcotton/ExoSkeleton/blob/gh-pages/images/exoskeleton-demo-page.png?raw=true)](https://ronaldcotton.github.io/ExoSkeleton/examples/landing/index.html)
 
+## Download ExoSkeleron
+Either Click [Download](https://github.com/ronaldcotton/ExoSkeleton/releases/download/ExoSkeleton-Alpha-v0.2/ExoSkeleton-Alpha-v0.2.zip) or clone repo and use master branch.
 
 ## Browser Compatibility
 ![Works with most modern browsers](https://ronaldcotton.github.io/ExoSkeleton/images/browser-badge.png)
@@ -44,11 +46,11 @@ ExoSkeleton/
 
 ```
 
-### Why it's awesome
+### What makes ExoSkeleton Great
 
 The original Skeleton html template is lightweight and simple. It styles only raw HTML elements (with a few exceptions) and provides a responsive grid. Nothing more.
 
-Exoskeleton aims to update and add features to skeleton:
+ExoSkeleton aims to update and add features to the great skeleton template:
 - Updated normalize.css
 - Updated favicons
 
