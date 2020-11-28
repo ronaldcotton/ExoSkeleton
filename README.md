@@ -1,7 +1,15 @@
+!(License MIT)[https://camo.githubusercontent.com/0450a9bbd84b6d8bbd4b0d811f530af912ce6abe51dfabdc2d52973a53f9cb31/68747470733a2f2f62616467656e2e6e65742f6769746875622f6c6963656e73652f62616467656e2f62616467656e2d636c69]
+
+
 # ExoSkeleton
 ExoSkeleton is an adapted template from the original responsive boilerplate [Skeleton](http://getskeleton.com) to kickstart any web project.  Skeleton hasn't been updated in 6 years - this is a refresh the original Skeleton theme.
 
 Check out <http://getskeleton.com> for documentation and details of the original project.
+
+
+## Browser Compatibility
+
+See [IE Versions](https://en.wikipedia.org/wiki/Internet_Explorer_version_history), [Firefox Versions](https://en.wikipedia.org/wiki/Firefox_version_history), [Chrome Versions](https://en.wikipedia.org/wiki/Google_Chrome_version_history), [Safari Versions](https://en.wikipedia.org/wiki/Safari_(web_browser)), [Opera Versions](https://en.wikipedia.org/wiki/History_of_the_Opera_web_browser), 
 
 ## Getting started
 
@@ -41,10 +49,6 @@ The original Skeleton html template is lightweight and simple. It styles only ra
 Exoskeleton aims to update and add features to skeleton:
 - Updated normalize.css
 - Updated favicons
-
-## Browser support
-
-Should work with most modern browsers after IE9.
 
 
 ## License
