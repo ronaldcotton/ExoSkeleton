@@ -38,8 +38,9 @@ ExoSkeleton/
 
 The original Skeleton html template is lightweight and simple. It styles only raw HTML elements (with a few exceptions) and provides a responsive grid. Nothing more.
 
-Exoskeleton aims to update and add features to skeleton.
-
+Exoskeleton aims to update and add features to skeleton:
+- Updated normalize.css
+- Updated favicons
 
 ## Browser support
 
@@ -56,4 +57,4 @@ All parts of ExoSkeleton and Skeleton are free to use and abuse under the open-s
 - The original Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
 - .gitignore template for web projects was created by [@salcode](https://github.com/salcode)
 - updated [normalize.css](https://github.com/necolas/normalize.css/) by [@necolas](https://github.com/necolas)
-- [Real Favicon Generator](https://realfavicongenerator.net) for highly compatible icons acrost multiple environments.
+- [Real Favicon Generator](https://realfavicongenerator.net) for highly compatible favicons across multiple environments.
