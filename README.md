@@ -11,15 +11,12 @@ Check out <http://getskeleton.com> for documentation and details of the original
 [![ExoSkeleton Documenation Page](https://github.com/ronaldcotton/ExoSkeleton/blob/gh-pages/images/exoskeleton-documentation-page.png?raw=true)](https://ronaldcotton.github.io/ExoSkeleton/)
 [![ExoSkeleton Demo Page](https://github.com/ronaldcotton/ExoSkeleton/blob/gh-pages/images/exoskeleton-demo-page.png?raw=true)](https://ronaldcotton.github.io/ExoSkeleton/examples/landing/index.html)
 
+
 ## Browser Compatibility
 ![Works with most modern browsers](https://ronaldcotton.github.io/ExoSkeleton/images/browser-badge.png)
 
 See [IE Versions](https://en.wikipedia.org/wiki/Internet_Explorer_version_history), [Firefox Versions](https://en.wikipedia.org/wiki/Firefox_version_history), [Chrome Versions](https://en.wikipedia.org/wiki/Google_Chrome_version_history), [Safari Versions](https://en.wikipedia.org/wiki/Safari_(web_browser)), [Opera Versions](https://en.wikipedia.org/wiki/History_of_the_Opera_web_browser) for details. 
 
-## Getting started
-
-To download the original unforked version of Skeleton:
-- Clone the repo: `git clone https://github.com/dhg/Skeleton.git` (hasn't been updated in over 6 years)
 
 ### What's in the download?
 
