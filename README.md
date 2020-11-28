@@ -8,8 +8,8 @@ Check out <http://getskeleton.com> for documentation and details of the original
 
 
 ## Examples
-[Example 1](https://ronaldcotton.github.io/ExoSkeleton/)
-[Example 2](https://ronaldcotton.github.io/ExoSkeleton/examples/landing/index.html)
+[![ExoSkeleton Documenation Page](https://github.com/ronaldcotton/ExoSkeleton/blob/gh-pages/images/exoskeleton-documentation-page.png?raw=true)](https://ronaldcotton.github.io/ExoSkeleton/)
+[![ExoSkeleton Demo Page](https://github.com/ronaldcotton/ExoSkeleton/blob/gh-pages/images/exoskeleton-demo-page.png?raw=true)](https://ronaldcotton.github.io/ExoSkeleton/examples/landing/index.html)
 
 ## Browser Compatibility
 ![Works with most modern browsers](https://ronaldcotton.github.io/ExoSkeleton/images/browser-badge.png)
