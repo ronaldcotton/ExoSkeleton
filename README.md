@@ -7,6 +7,10 @@ ExoSkeleton is an adapted template from the original responsive boilerplate Skel
 Check out <http://getskeleton.com> for documentation and details of the original project.
 
 
+## Examples
+[Example 1](https://ronaldcotton.github.io/ExoSkeleton/)
+[Example 2](https://ronaldcotton.github.io/ExoSkeleton/examples/landing/index.html)
+
 ## Browser Compatibility
 ![Works with most modern browsers](https://ronaldcotton.github.io/ExoSkeleton/images/browser-badge.png)
 
