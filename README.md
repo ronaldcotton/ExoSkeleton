@@ -10,7 +10,7 @@ To download the original unforked version of Skeleton:
 
 ### What's in the download?
 
-The download includes Skeleton's CSS, Normalize CSS as a reset, and an index.html as a starting point.  Favicons are created from https://realfavicongenerator.net from 260x260+ square sources.  For Favicon Generator Options -> Path, choose /images/.
+The download includes Skeleton's CSS, Normalize CSS as a reset, and an index.html as a starting point.  Favicons are created from [Real Favicon Generator](https://realfavicongenerator.net) from 260x260+ square sources.  Either edit the images by hand, keeping the aspect ratio or use website to generate icons. For Favicon Generator Options -> Path, choose /images/.  For the rational of using multiple favicons, see [Real Favicon Generator FAQ](https://realfavicongenerator.net/faq).
 
 ```
 ExoSkeleton/
@@ -56,3 +56,4 @@ All parts of ExoSkeleton and Skeleton are free to use and abuse under the open-s
 - The original Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
 - .gitignore template for web projects was created by [@salcode](https://github.com/salcode)
 - updated [normalize.css](https://github.com/necolas/normalize.css/) by [@necolas](https://github.com/necolas)
+- [Real Favicon Generator](https://realfavicongenerator.net) for highly compatible icons acrost multiple environments.
