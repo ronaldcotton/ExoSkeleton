@@ -7,11 +7,11 @@ ExoSkeleton is an adapted template from the original responsive boilerplate Skel
 Check out <http://getskeleton.com> for documentation and details of the original project.
 
 
-## ExoSkeleron Examples
+## ExoSkeleton Examples
 [![ExoSkeleton Documenation Page](https://github.com/ronaldcotton/ExoSkeleton/blob/gh-pages/images/exoskeleton-documentation-page.png?raw=true)](https://ronaldcotton.github.io/ExoSkeleton/)
 [![ExoSkeleton Demo Page](https://github.com/ronaldcotton/ExoSkeleton/blob/gh-pages/images/exoskeleton-demo-page.png?raw=true)](https://ronaldcotton.github.io/ExoSkeleton/examples/landing/index.html)
 
-## Download ExoSkeleron
+## Download ExoSkeleton
 Either Click [Download](https://github.com/ronaldcotton/ExoSkeleton/releases/download/ExoSkeleton-Alpha-v0.2/ExoSkeleton-Alpha-v0.2.zip) or clone repo and use master branch.
 
 ## Browser Compatibility
