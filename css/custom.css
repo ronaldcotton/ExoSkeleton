@@ -53,7 +53,8 @@
   margin-bottom: 0; }
 .code-example-body {
   white-space: pre;
-  word-wrap: break-word }
+  word-break: break-word;
+  overflow-y: hidden; }
 .example {
   position: relative; 
   margin-top: 4rem; }
