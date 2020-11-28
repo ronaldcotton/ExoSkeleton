@@ -17,7 +17,9 @@ ExoSkeleton/
 ├── index.html
 ├── css/
 │   ├── normalize.css
-│   └── skeleton.css
+|   ├── normalize.min.css
+|   ├── skeleton.css
+│   └── skeleton.min.css
 └── images/
     └── favicon.ico
 
