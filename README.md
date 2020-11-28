@@ -31,8 +31,8 @@ ExoSkeleton/
 ├── css/
 │   ├── normalize.css
 |   ├── normalize.min.css
-|   ├── skeleton.css
-│   └── skeleton.min.css
+|   ├── exoskeleton.css
+│   └── exoskeleton.min.css
 └── images/
     ├── android-chrome-192x192.png
     ├── android-chrome-256x256.png
