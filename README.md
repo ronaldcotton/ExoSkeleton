@@ -2,13 +2,13 @@
 
 
 # ExoSkeleton
-ExoSkeleton is an adapted template from the original responsive boilerplate [Skeleton](http://getskeleton.com) to kickstart any web project.  Skeleton hasn't been updated in 6 years - this is a refresh the original Skeleton theme.
+ExoSkeleton is an adapted template from the original responsive boilerplate Skeleton to kickstart any web project.  Skeleton hasn't been updated in 6 years - this is a refresh and reimagining of the original Skeleton theme.
 
 Check out <http://getskeleton.com> for documentation and details of the original project.
 
 
 ## Browser Compatibility
-![Works with most modern browsers](https://roncotton.neocities.org/exoskeleton/browser-badge.png)
+![Works with most modern browsers](https://ronaldcotton.github.io/ExoSkeleton/images/browser-badge.png)
 
 See [IE Versions](https://en.wikipedia.org/wiki/Internet_Explorer_version_history), [Firefox Versions](https://en.wikipedia.org/wiki/Firefox_version_history), [Chrome Versions](https://en.wikipedia.org/wiki/Google_Chrome_version_history), [Safari Versions](https://en.wikipedia.org/wiki/Safari_(web_browser)), [Opera Versions](https://en.wikipedia.org/wiki/History_of_the_Opera_web_browser) for details. 
 
@@ -52,14 +52,9 @@ Exoskeleton aims to update and add features to skeleton:
 - Updated favicons
 
 
-## License
-
-All parts of ExoSkeleton and Skeleton are free to use and abuse under the open-source MIT license.
-
-
 ## Acknowledgement
 
-- The original Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
+- The original [Skeleton](http://getskeleton.com) was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
 - .gitignore template for web projects was created by [@salcode](https://github.com/salcode)
 - updated [normalize.css](https://github.com/necolas/normalize.css/) by [@necolas](https://github.com/necolas)
 - [Real Favicon Generator](https://realfavicongenerator.net) for highly compatible favicons across multiple environments.
