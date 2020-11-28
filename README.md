@@ -12,7 +12,7 @@ Check out <http://getskeleton.com> for documentation and details of the original
 [![ExoSkeleton Demo Page](https://github.com/ronaldcotton/ExoSkeleton/blob/gh-pages/images/exoskeleton-demo-page.png?raw=true)](https://ronaldcotton.github.io/ExoSkeleton/examples/landing/index.html)
 
 ## Download ExoSkeleton
-Either Click [Download](https://github.com/ronaldcotton/ExoSkeleton/releases/download/ExoSkeleton-Alpha-v0.2/ExoSkeleton-Alpha-v0.2.zip) or clone repo and use master branch.
+[Download ExoSkeleton Release](https://github.com/ronaldcotton/ExoSkeleton/releases/download/ExoSkeleton-Alpha-v0.2/ExoSkeleton-Alpha-v0.2.zip) or clone master branch repository.
 
 ## Browser Compatibility
 ![Works with most modern browsers](https://ronaldcotton.github.io/ExoSkeleton/images/browser-badge.png)
