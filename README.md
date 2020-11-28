@@ -10,7 +10,7 @@ To download the original unforked version of Skeleton:
 
 ### What's in the download?
 
-The download includes Skeleton's CSS, Normalize CSS as a reset, a sample favicon, and an index.html as a starting point.
+The download includes Skeleton's CSS, Normalize CSS as a reset, and an index.html as a starting point.  Favicons are created from https://realfavicongenerator.net from 260x260+ square sources.  For Favicon Generator Options -> Path, choose /images/.
 
 ```
 ExoSkeleton/
@@ -21,7 +21,16 @@ ExoSkeleton/
 |   ├── skeleton.css
 │   └── skeleton.min.css
 └── images/
-    └── favicon.ico
+    ├── android-chrome-192x192.png
+    ├── android-chrome-256x256.png
+    ├── apple-touch-icon.png
+    ├── browserconfig.xml
+    ├── favicon-16x16.png
+    ├── favicon-32x32.png
+    ├── favicon.ico
+    ├── mstile-150x150.png
+    ├── safari-pinned-tab.svg
+    └── site.webmanifest
 
 ```
 
